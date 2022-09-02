@@ -27,14 +27,47 @@
         <div class="tittle">
            <h2>Informações pessoais</h2>
         </div>
-
+        
         <form>
-          
+            <fieldset>
+
+                <div class="col-2">
+
+                    <div class="input-wrapper">
+                         <label for="event-name">Nome</label>
+                        <input type="text" id="event-name"/>
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="event-lastname">Sobrenome</label>
+                        <input type="text" id="event-lastname"/>
+                    </div>
+
+                </div>
+                
+                <div class="input-wrapper">
+                    <label for="event-email">E-mai <span>(digite um email válido)</span></label>
+                    <input type="email" id="event-email"/>
+                </div>
+        
+            </fieldset>
+
+            
+            <fieldset>
+                <legend>Informações do mentor</legend>
+
+                <div class="input-wrapper">
+                    <label for="mentor">Selecione quem foi seu mentor</label>
+                        <select id="mentor">
+                            <option>Mayk Brito</option>
+                            <option>Jakeliny </option>
+                            <option>Diego Fernandes</option>
+                            <option>Lara Azevedo</option>
+                            <option>Brenda Mendes</option>
+                        </select>
+                  </div>
+            </fieldset>
         </form>
-
-        <footer>
-
-        </footer>
   </div>
 </body>
 </html>
