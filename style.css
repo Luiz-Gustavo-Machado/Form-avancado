@@ -253,7 +253,7 @@ fieldset legend {
     width: 100%; 
 }
 
-.button {
+button {
     height: 51px;
     width: 622px;
     background-color: #F67669;
@@ -267,9 +267,14 @@ fieldset legend {
     text-transform: uppercase;
     color: #FFFFFF;
     text-align: center;
+
+    transition: 400ms;
 }
 
-.button:hover {
+button:hover {
     background: #fd4732;
 }
+
+input:invalid {
+    border: 2px solid rgb(196, 63, 63);
 
