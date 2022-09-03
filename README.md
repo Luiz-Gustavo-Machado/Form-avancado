@@ -7,7 +7,7 @@
 <h3>Stack utilizada</h3>
 Front-end: HTML & CSS
 
-<a> Deploy Formulário Avançado
+Deploy <a href="https://formularioavancadostage03.netlify.app/" target="_blank">Formulário Avançado</a>
 
  <h2>Imagem de referência</h2>
  
