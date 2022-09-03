@@ -247,10 +247,22 @@ fieldset legend {
     gap: 10px;
    
 }
-
+.col-3 {
+    display: flex;
+}
 
 .col-3 > div:nth-child(1) {
-    width: 100%; 
+    width: 50%;
+}
+
+.col-3 > div:nth-child(2) {
+    margin-left: 32px;
+    width: 25%;
+}
+
+.col-3 > div:nth-child(3) {
+    margin-left: 10px;
+    width: 25%;
 }
 
 button {
@@ -277,4 +289,3 @@ button:hover {
 
 input:invalid {
     border: 2px solid rgb(196, 63, 63);
-
