@@ -11,5 +11,6 @@ Front-end: HTML & CSS
 
  <h2>Imagem de referência</h2>
  
- ![image](https://user-images.githubusercontent.com/108701750/188249415-befc9769-18c3-4c34-b5d6-e6134daec55b.png)
+![image](https://user-images.githubusercontent.com/108701750/188249531-efb11e8d-1dac-4e29-8236-798b3dfd12af.png)
+
 
