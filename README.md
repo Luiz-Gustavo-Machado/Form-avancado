@@ -1,17 +1,3 @@
-<h1>Formulario Avançado</h1>
-
-> 
-
-<h3>Stack utilizada</h3>
-Front-end: HTML & CSS
-
-Deploy <a href="https://formularioavancadostage03.netlify.app/" target="_blank">Formulário Avançado</a>
-
- <h2>Imagem de referência</h2>
- 
-
-
-
 
 <p align="center">
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,7 +16,7 @@ Deploy <a href="https://formularioavancadostage03.netlify.app/" target="_blank">
 
 ### 🔖 Layout Space Cream
 
-Você pode visualizar o layout do projeto através 🔗 [desse link](https://gridresponsividade.netlify.app/).
+Você pode visualizar o layout do projeto através 🔗 [desse link](https://formularioavancadostage03.netlify.app/).
 
 ![image](https://user-images.githubusercontent.com/108701750/188249567-e630d3d0-0c8d-4dcb-a1f2-40b0995c9ce3.png)
 
